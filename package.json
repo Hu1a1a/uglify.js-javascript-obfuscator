@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "javascript-obfuscator": "^4.1.0",
+    "uglify-js": "^3.17.4"
+  }
+}
